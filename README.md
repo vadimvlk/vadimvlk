@@ -1,16 +1,13 @@
-### Hi there 👋
+### Hey 👋, I'm Vadim
 
-<!--
-**vadimvlk/vadimvlk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![](https://img.shields.io/badge/-@vadimvlk-%23181717?style=flat-square&logo=github)](https://github.com/vadimvlk)
+[![](https://img.shields.io/badge/-Vadim%20Volkov-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vadimvlk/)](https://www.linkedin.com/in/vadimvlk/)
 
-Here are some ideas to get you started:
+Development of business applications using .Net and js framework's
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* .NET Software developer
+* C#
+* Frontend developer
+* Angular
+* ASP.NET, .NET Core, WebAPI, Restful APIs, Service bus
+* SQL (SQL Server, MySQL, MariaDB)
